@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "docx-pdf": "^0.0.1",
+    "express": "^5.1.0",
+    "jszip": "^3.10.1",
+    "mammoth": "^1.11.0",
+    "multer": "^2.0.2"
+  }
+}
